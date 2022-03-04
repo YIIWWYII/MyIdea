@@ -1,0 +1,2 @@
+# MyIdea
+some eureka ideas
